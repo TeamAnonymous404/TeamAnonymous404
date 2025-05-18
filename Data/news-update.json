@@ -1,0 +1,66 @@
+[
+    {
+      "image": "India army collage-DDOS.png",
+      "title": "Website Takedown",
+      "description": "Successfully executed a permanent takedown of the Indian Army College of Nursing website through a large-scale, well-coordinated DDoS attack, completely shutting down all online services, disrupting access to critical information, and rendering the site offline for an extended period.",
+      "icon": "fa-network-wired",
+      "date": "April 26, 2025"
+    },
+    {
+      "image": "money-bells-deface.jpg",
+      "title": "Money Bells Deface",
+      "description": "Successfully Deface the website of Money Bells Global Research Services Pvt. Ltd, and access their internal server and destroy their website and other assets.",
+      "icon": "fa-database",
+      "date": "April 27, 2025"
+    },
+    {
+      "image": "FTP-admin.cuh.ac.in-Access.jpg",
+      "title": "Server Hacked",
+      "description": "Breach of the FTP server at the Central University of Haryana, India, resulted in the extraction of sensitive data, including internal documents, user credentials, and system configurations, providing full access to critical systems and posing significant security risks to the institution.",
+      "icon": "fa-server",
+      "date": "April 27, 2025"
+    },
+    {
+      "image": "operation4.jpg",
+      "title": "Operation IronFist",
+      "description": "Successfully traced and exposed a major cybercrime ring targeting financial institutions.",
+      "icon": "fa-user-secret",
+      "date": "April 10, 2025"
+    },
+    {
+      "image": "operation5.jpg",
+      "title": "Operation PhantomStrike",
+      "description": "Launched offensive measures against a botnet responsible for spreading ransomware across national servers.",
+      "icon": "fa-ghost",
+      "date": "April 5, 2025"
+    },
+    {
+      "image": "operation6.jpg",
+      "title": "Operation ThunderGuard",
+      "description": "Protected major news agencies from coordinated hacking attempts during a critical political event.",
+      "icon": "fa-shield-virus",
+      "date": "March 30, 2025"
+    },
+    {
+      "image": "operation7.jpg",
+      "title": "Operation NightWatch",
+      "description": "Monitored and neutralized multiple phishing campaigns targeting government officials.",
+      "icon": "fa-eye",
+      "date": "March 25, 2025"
+    },
+    {
+      "image": "operation8.jpg",
+      "title": "Operation SteelBarrier",
+      "description": "Upgraded firewall systems and successfully defended against zero-day exploits.",
+      "icon": "fa-lock",
+      "date": "March 20, 2025"
+    },
+    {
+      "image": "operation9.jpg",
+      "title": "Operation EchoBlade",
+      "description": "Intercepted cyberattacks launched through compromised IoT devices within city infrastructure.",
+      "icon": "fa-wifi",
+      "date": "March 15, 2025"
+    }
+  ]
+  

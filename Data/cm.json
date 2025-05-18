@@ -1,0 +1,86 @@
+[
+  {
+    "image": "cm1.jpeg",
+    "title": "Warehouse - Infiltrated Surveillance",
+    "description": "Remote surveillance of the warehouse, gathering intel on inventory and security protocols.",
+    "icon": "fa-eye",
+    "date": "April 27, 2025"
+  },
+  {
+    "image": "cm2.jpeg",
+    "title": "School - Unauthorized Access",
+    "description": "Covert monitoring of the school premises, bypassing security systems to ensure total surveillance.",
+    "icon": "fa-eye",
+    "date": "April 27, 2025"
+  },
+  {
+    "image": "cm3.jpeg",
+    "title": "Grocery Store - Silent Observer",
+    "description": "Undetected camera feed from within the grocery store, capturing every movement in the aisles.",
+    "icon": "fa-eye",
+    "date": "April 27, 2025"
+  },
+  {
+    "image": "cm4.jpeg",
+    "title": "School Exam - Hidden Surveillance",
+    "description": "Discreetly recording the exam hall to monitor students and gain an edge in unauthorized ways.",
+    "icon": "fa-eye",
+    "date": "April 27, 2025"
+  },
+  {
+    "image": "cm5.jpeg",
+    "title": "Outside House - Silent Watcher",
+    "description": "Stealthily observing the perimeter of the house, gathering intel on private activities.",
+    "icon": "fa-eye",
+    "date": "April 27, 2025"
+  },
+  {
+    "image": "cm6.jpeg",
+    "title": "Road - Anonymous Surveillance",
+    "description": "Monitoring traffic patterns and road conditions without being detected, gathering public data.",
+    "icon": "fa-eye",
+    "date": "April 27, 2025"
+  },
+  {
+    "image": "cm7.jpeg",
+    "title": "Office - Covert Monitoring",
+    "description": "Invisible surveillance within the office space, tracking employees and sensitive business activities.",
+    "icon": "fa-eye",
+    "date": "April 27, 2025"
+  },
+  {
+    "image": "cm8.jpeg",
+    "title": "Outside House - Undetected Watch",
+    "description": "Surveillance of the house's exterior without detection, capturing private moments without consent.",
+    "icon": "fa-eye",
+    "date": "April 27, 2025"
+  },
+  {
+    "image": "cm9.jpeg",
+    "title": "Steel Company Warehouse - Infiltrated View",
+    "description": "Exposing the steel warehouse, tracking materials and security procedures undetected.",
+    "icon": "fa-eye",
+    "date": "April 27, 2025"
+  },
+  {
+    "image": "cm11.jpg",
+    "title": "Swimming Pool - Hidden Underneath",
+    "description": "Surveilling the swimming pool located underneath the house, monitoring activities unnoticed.",
+    "icon": "fa-eye",
+    "date": "April 27, 2025"
+  },
+  {
+    "image": "cm10.jpeg",
+    "title": "Steel Company Warehouse - Unnoticed Eye",
+    "description": "Monitoring the steel warehouse from within, stealing corporate secrets while avoiding detection.",
+    "icon": "fa-eye",
+    "date": "April 27, 2025"
+  },
+  {
+    "image": "cm12.jpg",
+    "title": "Under House - Door Side Watch",
+    "description": "Covertly observing the under-house door side, capturing every movement near private access points.",
+    "icon": "fa-eye",
+    "date": "April 27, 2025"
+  }
+]

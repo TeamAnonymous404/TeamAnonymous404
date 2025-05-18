@@ -1,0 +1,40 @@
+[ 
+    {
+      "image": "India Bank-LeakDetails1.png",
+      "title": "India Bank Database Breach",
+      "description": "Successfully breached the Indian bank database, exposing employee records including names, emails, addresses, phone numbers, company records, and etc.",
+      "icon": "fa-database",
+      "date": "April 27, 2025"
+    },
+    {
+      "image": "Gov.Data.In.png",
+      "title": "India Government Database Breach",
+      "description": "Successfully breached the official Indian government database, exposing employee records including names, emails, addresses, phone numbers, education details,  and more.",
+      "icon": "fa-database",
+      "date": "April 27, 2025"
+    },   
+    {
+      "image": "India Bank-LeakDetails2.png",
+      "title": "India Bank Database Breach",
+      "description": "Successfully breached the Indian bank database, exposing employee records including names, emails, addresses, phone numbers, company records, and etc.",
+      "icon": "fa-database",
+      "date": "April 27, 2025"
+    },
+    {
+      "image": "India Bank-LeakDetails2.png",
+      "title": "India Bank",
+      "description": "We successfully breached the internal systems of India Bank, gaining access to confidential financial records, customer data, and critical backend infrastructure. This operation exposed major security flaws in their digital framework.",
+      "icon": "fa-network-wired",
+      "date": "April 26, 2025"
+    },
+    {
+      "image": "GovernmentHrangbanaCollege-DataSample.png",
+      "title": "Government Hrangbana College",
+      "description": "We successfully breached the internal systems of India Bank, gaining access to confidential financial records, customer data, and critical backend infrastructure. This operation exposed major security flaws in their digital framework.",
+      "icon": "fa-network-wired",
+      "date": "April 26, 2025"
+    }
+  
+    
+]
+  
